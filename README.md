@@ -7,7 +7,7 @@ Grenades Expanded [ENG] - This mod expands your arsenal on grenades for each tec
 <b>Version 1.1:</b> Added 3 more Grenades<br>
 <b>Version 1.2:</b> Added No Camera Shake on Explosions<br>
 
-<h1>Boom!</h1><br>
+<h1>Boom!</h1>
 This mod expands your arsenal on grenades for each tech stadium:<br>
 
 - Holy Hand Grenade (Medieval Runthroughs, Exotic Traders, use this at night)<br>
@@ -23,7 +23,7 @@ This mod expands your arsenal on grenades for each tech stadium:<br>
 
 Handle with care. Watch the video for specific details. Raiders won't wield those.<br>
 
-<h1>Credits</h1><br>
+<h1>Credits</h1>
 Assemblies NCS * by BadDog + sma342 + Mehni + Erdelf<br>
 Idea & Clip * Monty Python<br>
 Code * by Trunken<br>
