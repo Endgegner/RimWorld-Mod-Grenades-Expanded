@@ -1,0 +1,29 @@
+# RimWorld-Mod-Grenades-Expanded
+Grenades Expanded [ENG] - This mod expands your arsenal on grenades for each tech stadium
+
+<img src="https://camo.githubusercontent.com/1e4f97e52db576a793e373a27c2de38c026bb3f1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52696d776f726c642d312e302d677265656e2e737667" alt="Version" data-canonical-src="https://img.shields.io/badge/Rimworld-1.0-green.svg" style="max-width:100%;"></a>
+
+<b>Version 1.0:</b> Release
+<b>Version 1.1:</b> Added 3 more Grenades
+<b>Version 1.2:</b> Added No Camera Shake on Explosions
+
+<h1>Boom!</h1>
+This mod expands your arsenal on grenades for each tech stadium:
+
+- Holy Hand Grenade (Medieval Runthroughs, Exotic Traders, use this at night)
+- Inferno Grenade (Medieval, Smithing)
+- Thermal Detonator (Advanced Fabrication, Industrial)
+- Dynamite (TNT, Industrial) 
+- Stick Grenade (Nitro, Industrial)
+- Firecracker (Hightech Explosives, Space)
+
+<b>Instructions:</b> <i>Aim at foes. Count to 3 before throwing. Don't drop it.</i>
+
+<img src="https://i.ibb.co/VNMkQCV/Grenade-Armageddon.png" /> <img src="https://i.ibb.co/chzx7Ck/Grenade-Inferno.png" /> <img src="https://i.ibb.co/sWmmYF1/Grenade-Detonator.png" /> <img src"https://i.ibb.co/tb8WnJL/Grenade-Dynamite.png" /> <img src"https://i.ibb.co/CKP3y1c/Grenade-Stick.png /> <img src="https://i.ibb.co/R0mtsSp/Grenade11-Firecracker.png />
+
+Handle with care. Watch the video for specific details. Raiders won't wield those.
+
+<h1>Credits</h1>
+Assemblies NCS * by BadDog + sma342 + Mehni + Erdelf<br>
+Idea & Clip * Monty Python<br>
+Code * by Trunken<br>
