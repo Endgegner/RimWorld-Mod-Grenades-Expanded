@@ -19,7 +19,7 @@ This mod expands your arsenal on grenades for each tech stadium:<br>
 
 <b>Instructions:</b> <i>Aim at foes. Count to 3 before throwing. Don't drop it.</i><br>
 
-<img src="https://i.ibb.co/VNMkQCV/Grenade-Armageddon.png" /> <img src="https://i.ibb.co/chzx7Ck/Grenade-Inferno.png" /> <img src="https://i.ibb.co/sWmmYF1/Grenade-Detonator.png" /> <img src="https://i.ibb.co/tb8WnJL/Grenade-Dynamite.png" /> <img src="https://i.ibb.co/CKP3y1c/Grenade-Stick.png /> <img src="https://i.ibb.co/R0mtsSp/Grenade11-Firecracker.png" />
+<img src="https://i.ibb.co/VNMkQCV/Grenade-Armageddon.png" /> <img src="https://i.ibb.co/chzx7Ck/Grenade-Inferno.png" /> <img src="https://i.ibb.co/sWmmYF1/Grenade-Detonator.png" /> <img src="https://i.ibb.co/tb8WnJL/Grenade-Dynamite.png" /> <img src="https://i.ibb.co/CKP3y1c/Grenade-Stick.png" /> <img src="https://i.ibb.co/R0mtsSp/Grenade11-Firecracker.png" />
 
 Handle with care. Watch the video for specific details. Raiders won't wield those.<br>
 
