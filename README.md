@@ -8,7 +8,7 @@ Grenades Expanded [ENG] - This mod expands your arsenal on grenades for each tec
 <b>Version 1.2:</b> Added No Camera Shake on Explosions<br>
 
 <h1>Boom!</h1>
-This mod expands your arsenal on grenades for each tech stadium:<br>
+This mod expands your arsenal on grenades for each tech stadium:<br><br>
 
 - Holy Hand Grenade (Medieval Runthroughs, Exotic Traders, use this at night)<br>
 - Inferno Grenade (Medieval, Smithing)<br>
