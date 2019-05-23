@@ -26,4 +26,9 @@ Handle with care. Watch the video for specific details. Raiders won't wield thos
 <h1>Credits</h1>
 Assemblies NCS * by BadDog + sma342 + Mehni + Erdelf<br>
 Idea & Clip * Monty Python<br>
-Code * by Trunken<br>
+Guidance * Roolo
+Eyecandy * by Evaine
+Code & GFX * by Trunken<br>
+
+#### License:
+All files/content belong their respective owners.
